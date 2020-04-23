@@ -2,9 +2,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
 }
 
 body {
+  background-color: lightgray;
   width: 95%;
   margin: 0 auto;
 
@@ -187,10 +189,11 @@ color: gray;
 }
 
 .projects__carousel-control {
+  background-color: lightgray;
   align-items: center;
   width: 20%;
   cursor: pointer;
-  background: #eeeeee;
+
 }
 
 .projects__carousel-arrow {
